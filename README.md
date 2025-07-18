@@ -142,14 +142,7 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=prince777-k\&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <a href="https://github.com/prince777-k/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=prince777-k&theme=radical" />
-  </a>
-</p>
+
 
 <!-- <p align="center">
   <a href="https://github.com/ChangeYourself0613/github-readme-stats">
