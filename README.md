@@ -135,9 +135,9 @@
 <br/>
 
 <p align="center">
-<!--   <a href="https://github.com/prince777-k/github-readme-stats">
+  <a href="https://github.com/prince777-k/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=prince777-k&show_icons=true&theme=radical&card_width=350" />
-  </a> -->
+  </a>
   <a href="https://github.com/prince777-k/convoychat">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
