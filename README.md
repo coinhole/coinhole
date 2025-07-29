@@ -1,15 +1,16 @@
-<h1 align="center">❤ Senior Blockchain developer ❤</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Bernard;❤Senior+Blockchain+Developer❤;+Passinate+&+Reliable+Developer;" />
 </h1>
 <br />
 
-##<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.laurent.ace@gmail.com)
 ![Visitor](https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
 
-##Skills
+<h2>Skills<h2>
+<br/>
 <table align="center">
 <tr>
     <td align="center" width="90">
@@ -148,25 +149,6 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-
-
-
-<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
-<div id="badges">
-  
-   <a href="https://www.linkedin.com/in/royabhisek247767/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-
-<a href="https://x.com/abhisekroy169">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
-       alt="X" />
-</a>
-
-<a href="https://linktr.ee/abhisekroy">
-  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
-       alt="Linktree" />
-</a>
-
 
   </a>
    <a href="https://abhisek247767.github.io/AbhisekRoy-SDE/">
