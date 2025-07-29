@@ -149,24 +149,14 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/prince777-k/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=prince777-k&theme=radical" />
   </a>
-   <a href="https://abhisek247767.github.io/AbhisekRoy-SDE/">
-    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
-  </a>
-  
-</div>
+</p>
 
 
 
-<h3 align="left"><img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center">Languages and Tools:</h3>
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,yarn,npm,vite,vercel,ts,angular,tailwind,jest,nodejs,express,nginx,java,maven,spring,hibernate,c,cpp,python,postman,jenkins,linux,ubuntu,rabbitmq,mongodb,mysql,github,gitlab,git,elasticsearch,vscode,sublime,postgres,docker,aws,redis&perline=20)](https://skillicons.dev)
-
-<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek247767&theme=aura&show_icons=true&locale=en&layout=compact" alt="abhisek247767" /></p>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhisek247767&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
 
 
@@ -181,26 +171,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=abhisek247767&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="abhisek"" />
 </p>
 
-
-
-
-
-<p align="center">
-  <a href="https://github.com/ChangeYourself0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=ChangeYourself0613&show_icons=true&theme=radical&card_width=350" />
-  </a>
-  <a href="https://github.com/ChangeYourself0613/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ChangeYourself0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-</p>
- <p align="center">
-  <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <a href="https://github.com/ChangeYourself0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=ChangeYourself0613&theme=radical" />
-  </a>
-</p>
 
 <div align="left">
 
