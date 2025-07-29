@@ -160,12 +160,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/>
 </p>
 
-
-<div align="center">
+<!-- <div align="center">
   <h3>🧐 My Contributions ✨✨</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prince777-k/prince777-k/output/github-contribution-grid-snake.svg" />
   
-</div>
+</div> -->
 
 <br clear ="both" >
