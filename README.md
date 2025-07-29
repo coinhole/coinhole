@@ -1,9 +1,15 @@
-<h1 align="center">❤ Senior Blockchain developer ❤</h1> 
+<h1 align="center">❤ Senior Blockchain developer ❤</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Bernard;❤Senior+Blockchain+Developer❤;+Passinate+&+Reliable+Developer;" />
+</h1>
 <br />
-<!-- <h1 align="center"> Archievements </h1> -->
-<!-- <p align="center">
-  <a href="https://github.com/ChangeYourself0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChangeYourself0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ChangeYourself0613's trophy stats"/></a>
-</p> -->
+
+##<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.laurent.ace@gmail.com)
+![Visitor](https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
+
+##Skills
 <table align="center">
 <tr>
     <td align="center" width="90">
@@ -144,25 +150,77 @@
 </p>
 
 
-<!-- <p align="center">
+
+<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+<div id="badges">
+  
+   <a href="https://www.linkedin.com/in/royabhisek247767/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+
+<a href="https://x.com/abhisekroy169">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
+       alt="X" />
+</a>
+
+<a href="https://linktr.ee/abhisekroy">
+  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
+       alt="Linktree" />
+</a>
+
+
+  </a>
+   <a href="https://abhisek247767.github.io/AbhisekRoy-SDE/">
+    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
+  </a>
+  
+</div>
+
+
+
+<h3 align="left"><img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center">Languages and Tools:</h3>
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,yarn,npm,vite,vercel,ts,angular,tailwind,jest,nodejs,express,nginx,java,maven,spring,hibernate,c,cpp,python,postman,jenkins,linux,ubuntu,rabbitmq,mongodb,mysql,github,gitlab,git,elasticsearch,vscode,sublime,postgres,docker,aws,redis&perline=20)](https://skillicons.dev)
+
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek247767&theme=aura&show_icons=true&locale=en&layout=compact" alt="abhisek247767" /></p>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhisek247767&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek247767&theme=aura&show_icons=true&locale=en" alt="abhisek247767"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek247767&&theme=tokyonight" alt="abhisek247767"/></p>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek247767&theme=aura) 
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abhisek247767&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="abhisek"" />
+</p>
+
+
+
+
+
+<p align="center">
   <a href="https://github.com/ChangeYourself0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=ChangeYourself0613&show_icons=true&theme=radical&card_width=350" />
   </a>
   <a href="https://github.com/ChangeYourself0613/convoychat">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ChangeYourself0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
-</p> -->
-<!--  <p align="center">
+</p>
+ <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-</p> -->
-<!-- <p align="center">
+</p>
+<p align="center">
   <a href="https://github.com/ChangeYourself0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=ChangeYourself0613&theme=radical" />
   </a>
-</p> -->
+</p>
 
 <div align="left">
-
 
 
 <br clear ="both" >
