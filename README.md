@@ -156,17 +156,7 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/prince777-k/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=prince777-k&theme=radical" />
-  </a>
-</p> -->
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince777-k&theme=aura) 
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prince777-k&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="abhisek"" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/></p>
 
 
 <div align="left">
