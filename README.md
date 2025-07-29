@@ -156,13 +156,12 @@
 </p> -->
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek247767&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince777-k&theme=aura) 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abhisek247767&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="abhisek"" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=prince777-k&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="abhisek"" />
 </p>
 
 
 <div align="left">
-
 
 <br clear ="both" >
