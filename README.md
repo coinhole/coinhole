@@ -156,9 +156,16 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/>
+</p>
 
 
-<div align="left">
+<div align="center">
+  <h3>🧐 My Contributions ✨✨</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prince777-k/prince777-k/output/github-contribution-grid-snake.svg" />
+  
+</div>
 
 <br clear ="both" >
