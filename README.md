@@ -3,20 +3,19 @@
 </h1>
 <br />
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
-<div align = "right">
+<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+<br/>
+<div>
   <a href="mailto:b.laurent.ace@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A" />
   </a>
-  <br/>
   <a href="https://github.com/prince777-k">
     <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
-<br/>
 <h2>Skills<h2>
 <br/>
 <table align="center">
