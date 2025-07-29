@@ -6,7 +6,7 @@
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.laurent.ace@gmail.com)
-![Visitor](https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
 
 <h2>Skills<h2>
