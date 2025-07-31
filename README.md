@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
-<h2>Skills<h2>
+<h2>Skills</h2>
 <br/>
 <table align="center">
 <tr>
