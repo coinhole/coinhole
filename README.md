@@ -3,7 +3,7 @@
 </h1>
 <br />
 <h3>✨ Thanks for visiting! Please don't forgot giving 🌟star🌟 and following 🤩 ✨</h3>
-<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2>
+<!-- <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect with me:</h2> -->
 <br/>
 <div>
 
