@@ -14,14 +14,18 @@
 -----
 ## ❤ About Me 💫
 
-<h5>I'm a passionate blockchain developer with a strong focus on Solana, Ethereum, and Bitcoin. I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks. I'm always looking for new challenges and opportunities to learn and grow.</h5>
+<h3>
+  I'm a passionate blockchain developer with a strong focus on Solana, Ethereum, and Bitcoin.
+  I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks.
+  I'm always looking for new challenges and opportunities to learn and grow.
+</h3>
 
 -----
 <div align="center" width="100%">
-  <div width="50%">
+  <span width="50%">
     <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
-    <h5>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h5>
-  </div>
+    <h4>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
+  </span>
   <img width="50%" align="right" alt="Github"
     src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
