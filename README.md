@@ -1,9 +1,6 @@
 <div align="center">
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
------
-
 <div width="100%">
     <h1 align="center">
       <img
@@ -14,11 +11,11 @@
 -----
 ## ❤ About Me 💫
 
-<h3>
+<h4>
   I'm a passionate blockchain developer with a strong focus on Solana, EVM, Bitcoin and so on.<br>
   I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks.<br>
   I'm always looking for new challenges and opportunities to learn and grow.<br>
-</h3>
+</h4>
 
 -----
 <table width="100%">
