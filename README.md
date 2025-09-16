@@ -18,7 +18,7 @@
 </h4>
 
 -----
-<table width="100%">
+<table width="80%">
   <tr>
     <td align="left" width="40%">
       <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
