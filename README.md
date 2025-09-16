@@ -4,25 +4,26 @@
 
 -----
 
-
-
 <div width="100%">
-  <div width="65%">
     <h1 align="center">
       <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
     </h1>
   </div>
-  <img width="35%" align="right" alt="Github"
-    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</div>
+  
+-----
+## ❤ About Me 💫
+
+<h5>I'm a passionate blockchain developer with a strong focus on Solana, Ethereum, and Bitcoin. I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks. I'm always looking for new challenges and opportunities to learn and grow.</h5>
 
 -----
-
-
-
 <div align="center" width="100%">
-  <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+  <div width="50%">
+    <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+    <h5>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h5>
+  </div>
+  <img width="50%" align="right" alt="Github"
+    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 -----
@@ -198,10 +199,10 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin" />
       <br>Kotlin
-    </td>
+    </td> -->
   </tr>
   <!-- common -->
   <tr>
@@ -257,10 +258,10 @@
   <a href="https://github.com/prince777-k/">
     <img
       src="https://github-readme-stats.vercel.app/api?username=prince777-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="450" />
+      width="450" height="200"/>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=prince777-k&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="375" alt="prince777-k" />
+      width="450" height="200" alt="prince777-k" />
   </a>
 </div>
 
