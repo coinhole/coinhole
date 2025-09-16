@@ -21,22 +21,17 @@
 </h3>
 
 -----
-<!-- <div align="center" width="100%">
-  <span width="50%" align="left">
-    <span><img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" /></span>
-    <h4>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
-  </span>
-  <span width="50%" align="right"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></span>
-</div> -->
-<tr>
-  <td>
-    <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
-    <h4>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
-  </td>
-  <td>
-    <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  </td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+      <h4>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
+    </td>
+    <td align="right" width="50%">
+      <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    </td>
+  </tr>
+</table>
 
 -----
 
