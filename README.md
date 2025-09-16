@@ -22,12 +22,11 @@
 
 -----
 <div align="center" width="100%">
-  <span width="50%">
-    <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+  <span width="50%" align="left">
+    <span><img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" /></span>
     <h4>Welcome to my GitHub profile! Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
   </span>
-  <img width="50%" align="right" alt="Github"
-    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <span width="50%" align="right"><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></span>
 </div>
 
 -----
@@ -262,10 +261,10 @@
   <a href="https://github.com/prince777-k/">
     <img
       src="https://github-readme-stats.vercel.app/api?username=prince777-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="450" height="200"/>
+      width="50%" height="200"/>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=prince777-k&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="450" height="200" alt="prince777-k" />
+      width="50%" height="200" alt="prince777-k" />
   </a>
 </div>
 
