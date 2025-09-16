@@ -48,6 +48,14 @@
       <br>GoLang
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=movr" width="45" height="45" alt="Move" />
+      <br>Move
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=func" width="45" height="45" alt="Func" />
+      <br>FunC
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
@@ -148,6 +156,8 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
@@ -187,6 +197,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin" />
+      <br>Kotlin
     </td>
   </tr>
   <!-- common -->
