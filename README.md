@@ -35,7 +35,9 @@
 -----
 
 ### ✨ Skills 💪
+
 <table align="center" width="600px" style="table-layout:fixed; border-collapse:collapse;">
+
   <!-- skill -->
   <tr>
     <td align="center" width="10%">
