@@ -1,9 +1,6 @@
 <div align="center">
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
------
-
 <div width="100%">
     <h1 align="center">
       <img
