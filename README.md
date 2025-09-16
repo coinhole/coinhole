@@ -35,7 +35,7 @@
 -----
 
 ### ✨ Skills 💪
-<table align="center" width="100%" style="table-layout:fixed;border-collapse:collapse;">
+<table align="center" width="750" style="table-layout:fixed;border-collapse:collapse;">
   <!-- skill -->
   <tr>
     <td align="center" width="10%">
@@ -82,43 +82,43 @@
   <!-- network -->
   <tr>
     <td align="center" width="10%">
-      <img src="./icons/solana.png" height="45">
+      <img src="./icons/solana.png" height="40">
       <br>Solana
     </td>
     <td align="center" width="10%">
-      <img src="./icons/ethereum.png" height="45">
+      <img src="./icons/ethereum.png" height="40">
       <br>Ethereum
     </td>
     <td align="center" width="10%">
-      <img src="./icons/Bitcoin.svg" height="45">
+      <img src="./icons/Bitcoin.svg" height="40">
       <br>Bitcoin
     </td>
     <td align="center" width="10%">
-      <img src="./icons/aptos1.png" height="45">
+      <img src="./icons/aptos1.png" height="40">
       <br>Aptos
     </td>
     <td align="center" width="10%">
-      <img src="./icons/polkadot1.png" height="45">
+      <img src="./icons/polkadot1.png" height="40">
       <br>Polkadot
     </td>
     <td align="center" width="10%">
-      <img src="./icons/cosmos.png" height="45">
+      <img src="./icons/cosmos.png" height="40">
       <br>Cosmos
     </td>
     <td align="center" width="10%">
-      <img src="./icons/polygon1.png" height="45">
+      <img src="./icons/polygon1.png" height="40">
       <br>Polygon
     </td>
     <td align="center" width="10%">
-      <img src="./icons/ton.png" height="45">
+      <img src="./icons/ton.png" height="40">
       <br>Ton
     </td>
     <td align="center" width="10%">
-      <img src="./icons/trx.png" height="45">
+      <img src="./icons/trx.png" height="40">
       <br>Tron
     </td>
     <td align="center" width="10%">
-      <img src="./icons/sui.png" height="45">
+      <img src="./icons/sui.png" height="40">
       <br>Sui
     </td>
   </tr>
