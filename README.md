@@ -24,7 +24,7 @@
       <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
       <h4>
         Welcome to my GitHub profile!<br>
-        Don't forget to ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
+        Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
     </td>
     <td align="right" width="50%">
       <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -34,7 +34,7 @@
 
 -----
 
-### ✨ Skills 💪
+## ✨ Skills 💪
 
 <table align="center" width="600px" style="table-layout:fixed; border-collapse:collapse;">
 
