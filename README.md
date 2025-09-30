@@ -21,7 +21,10 @@
 <table width="100%">
   <tr>
     <td align="left" width="40%">
+      <div align="center">
         <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+      </div>
+      <br>
       <div align="center">
         <a href="mailto:bluedragon47174@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
