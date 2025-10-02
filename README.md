@@ -32,7 +32,7 @@
         <a href="https://discord.com/users/<your_user_id>">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
         </a>
-        <a href="https://t.me/@hinatasugimoto">
+        <a href="https://t.me/hinatasugimoto">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
         <a href="https://wa.me/<your_wa_number>">
