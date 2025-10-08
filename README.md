@@ -18,7 +18,7 @@
 </h3> -->
 <div align="center">
 	<br>
-  <img src="aboutme.svg" width="1000" height="auto" alt="Click to see the source">
+  <img src="aboutme" width="1000" height="auto" alt="Click to see the source">
 </div>
 
 -----
