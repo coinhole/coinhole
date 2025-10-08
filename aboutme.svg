@@ -51,6 +51,9 @@
         .card p{
           margin: 2px;
           margin-left: 30px;
+          font-size: 18px;
+          font-family: 'Fredoka', sans-serif;
+          line-height: 1.5;
         }
         .card h2{
           color: var(--primary);
@@ -100,7 +103,7 @@
         }
 			</style>
       <article class='card'>
-        <h2> About me! 💁‍♂️</h2>
+        <h2> Introduce myself! 💁‍♂️</h2>
         <p>😎: I'm a passionate blockchain developer✌</p>
         <p>😉: with a strong focus on Solana, EVM, Aptos, Cardano and so on.. 🤗</p>
         <p>🖥️: I'm also proficient in Rust, Go, and Move, and have experience 👷‍♂️</p> 
