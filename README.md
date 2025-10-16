@@ -26,7 +26,7 @@
   <tr>
     <td align="left" width="40%">
       <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=prince777-k&style=plastic&color=blueviolet" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=coinhole&style=plastic&color=blueviolet" alt="Profile Views" />
       </div>
       <br>
       <div align="center">
@@ -42,7 +42,7 @@
         <a href="https://wa.me/<your_wa_number>">
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
         </a>
-        <a href="https://github.com/prince777-k">
+        <a href="https://github.com/coinhole">
           <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </div>
@@ -287,13 +287,13 @@
 <br>
 
 <div align="center" width="100%">
-  <a href="https://github.com/prince777-k/">
+  <a href="https://github.com/coinhole/">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=prince777-k&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      src="https://github-readme-stats.vercel.app/api?username=coinhole&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
       width="450" height="200"/>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=prince777-k&show_icons=true&locale=en&include_all_commits=true&count_private=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="290" height="200" alt="prince777-k" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=coinhole&show_icons=true&locale=en&include_all_commits=true&count_private=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      width="290" height="200" alt="coinhole" />
   </a>
 </div>
 
